@@ -1,7 +1,8 @@
 # Mena 2 APP Privacy Policy & Terms of Service
-The scope of this documentation is to list **Mena 2** APP policies
+The scope of this page is to list **Mena 2** APP policies
 
-- For privacy policy please visit: https://mena2-app-policy.techsafellc.com/privacy.html
-- For Terms of Service please visit: https://mena2-app-policy.techsafellc.com/terms.html
+- [Privacy Policy](https://mena2-app-policy.techsafellc.com/privacy.html)
+- [Terms of Service](https://mena2-app-policy.techsafellc.com/terms.html)
+- [Service Level Agreement](https://mena2-app-policy.techsafellc.com/sla.html)
 
 For any questions, contact us at support@techsafellc.com.
